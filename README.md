@@ -1,7 +1,7 @@
 # CropSense <img src="man/figures/logo.png" align="right" height="80"/>
 
 <!-- badges -->
-[![R-CMD-check](https://github.com/your_name/CropSense/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/your_name/CropSense/actions)
+[![R-CMD-check](https://github.com/your_name/CropSense/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **CropSense** is an R package for Near-Infrared (NIR) spectroscopy analysis and
