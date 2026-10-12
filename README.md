@@ -121,7 +121,7 @@ If you use CropSense in a publication, please cite:
 
 ```
 Mbaye, M. (2025). CropSense: NIR Spectroscopy Trait Prediction for Crops.
-R package version 0.1.0. https://github.com/your_name/CropSense
+R package version 0.1.0. https://github.com/mmbaye/CropSense
 ```
 
 ---
