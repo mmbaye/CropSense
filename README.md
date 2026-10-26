@@ -26,7 +26,7 @@ and whether you should send it back to the wet lab.
 ```r
 # From GitHub (recommended)
 # install.packages("remotes")
-remotes::install_github("your_name/CropSense")
+remotes::install_github("mmbaye/CropSense")
 ```
 
 ---
