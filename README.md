@@ -15,9 +15,10 @@ CropSense is an **open-source, browser-based application** written in R (Shiny) 
 
 > **Acquire → Harmonize → Explore → Calibrate & Predict → Report**
 
-It was developed at the **Senegalese Agricultural Research Institute (ISRA/CERAAS)**, Dakar, to support routine nutritional quality phenotyping in breeding programs for **groundnut, sorghum, pearl millet, cowpea, fonio, and sesame**.
+It was developed at the **Senegalese Agricultural Research Institute (ISRA/CERAAS)**, Thies, to support routine nutritional quality phenotyping in breeding programs for **groundnut, sorghum, pearl millet, cowpea, fonio, and sesame**.
 
 CropSense is not limited to agriculture: any laboratory operating multi-instrument NIR spectroscopy (food, pharmaceutical, environmental, botanical) can adapt the platform.
+![cropsense](https://github.com/mmbaye/CropSense/blob/main/Figures/software.png)
 
 ### Key capabilities
 
