@@ -263,7 +263,7 @@ Covered: preprocessing transformations, wavelength normalisation, grouped split 
 
 If you use CropSense in your research, please cite:
 
-> Modou MBAYE, khalil Kane, Ndeye Coura Fall. **CropSense: An integrated platform for multi-instrument NIR-based quality phenotyping in crop breeding.** *SoftwareX* (forthcoming). https://doi.org/[DOI]
+> Modou MBAYE, khalil Kane, Ndeye Coura Fall, Odilon-Parfait akotchaye, Amadou Oury Diallo, Mareme Ninag, Natalia Palacios-Rojas. **CropSense: An integrated platform for multi-instrument NIR-based quality phenotyping in crop breeding.** *SoftwareX* (forthcoming). https://doi.org/[DOI]
 
 And the software:
 
